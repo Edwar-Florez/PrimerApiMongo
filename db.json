@@ -2,7 +2,7 @@
   "books": [
     {
       "id": 1,
-      "name": "2000",
+      "name": "Juan Diego franco",
       "author": "George222222 Orwell",
       "year": 1949
     },
@@ -20,27 +20,10 @@
     },
     {
       "id": 5,
-      "name": "Brayan es de venezuela",
+      "name": "Juan Diego",
       "author": "Petro",
       "year": 2025
-    },
-    {
-      "id": 6,
-      "name": "Brayan es de Colombia",
-      "author": "Jairo",
-      "year": 2029
-    },
-    {
-      "id": 7,
-      "name": "Brayan es de Colombia",
-      "author": "Jairo",
-      "year": 2029
-    },
-    {
-      "id": 7,
-      "name": "Brayan es de Colombia",
-      "author": "Jairo",
-      "year": 2029
     }
+ 
   ]
 }
