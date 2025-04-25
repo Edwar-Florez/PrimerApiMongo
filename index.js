@@ -31,8 +31,8 @@ const writeData = (data) => {
 
 // Ruta principal
 app.get("/", (req, res) => {
-  console.log("Hola, bienvenido a mi página");
-  res.send("Bienvenido a la API de libros 📚");
+  console.log("Hola, bienvenido jarini");
+  res.send("Bienvenido a la API Juan Diego");
 });
 
 // Obtener todos los libros
