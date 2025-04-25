@@ -7,12 +7,6 @@
       "year": 1949
     },
     {
-      "id": 2,
-      "name": "1984",
-      "author": "George Orwell",
-      "year": 1949
-    },
-    {
       "id": 3,
       "name": "El principito",
       "author": "Antoine de Saint-Exupéry",
@@ -32,6 +26,18 @@
     },
     {
       "id": 6,
+      "name": "Brayan es de Colombia",
+      "author": "Jairo",
+      "year": 2029
+    },
+    {
+      "id": 7,
+      "name": "Brayan es de Colombia",
+      "author": "Jairo",
+      "year": 2029
+    },
+    {
+      "id": 7,
       "name": "Brayan es de Colombia",
       "author": "Jairo",
       "year": 2029
